@@ -58,7 +58,7 @@
 
 | Book Recommendations | PDF Q&A Chat |
 |----------------------|---------------|
-| ![Rec](https://user-images.githubusercontent.com/placeholder/rec.png) | ![QA](https://user-images.githubusercontent.com/placeholder/qa.png) |
+| ![Rec](Banner.png) | ![QA](Q&A_RAG_SYSTEM.png) |
 
 ---
 
@@ -82,5 +82,5 @@
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/llm-book-genie.git
+git clone https://github.com/Hadicheayto/LLM-Book-Recommender-and-Analysis
 cd llm-book-genie
