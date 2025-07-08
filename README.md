@@ -4,7 +4,8 @@
 
 > Your intelligent AI assistant for book recommendations, personalized reading experiences, and document understanding.
 
-![LLM Book Genie Banner](https://w0.peakpx.com/wallpaper/339/896/HD-wallpaper-library-concepts-stack-of-books-education-background-books-background-with-books-books-on-the-table.jpg)
+![Uploading image.png…]()
+
 
 ---
 
