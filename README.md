@@ -4,7 +4,7 @@
 
 > Your intelligent AI assistant for book recommendations, personalized reading experiences, and document understanding.
 
-![Uploading image.png…]()
+![LLM Book Genie Banner](Banner.png)
 
 
 ---
